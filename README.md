@@ -1,6 +1,8 @@
-# 3D PILOT: Physics-Informed Learned Optimal 3D Trajectories for Accelerated MRI
+# 3D FLAT: Feasible Learned Acquisition Trajectories for Accelerated MRI
 
-Jonathan Alush-Aben and Linor Ackerman
+Paper can be found here: https://arxiv.org/abs/2008.04808
+
+Jonathan Alush-Aben and Linor Ackerman-Schraier
 
 ## Introduction
 
